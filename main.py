@@ -78,7 +78,7 @@ class TreeStore:
         """
         Возвращает родителя для элемента
         Args:
-            row_id:
+            row_id (int): Идентификатор элемента
 
         Returns:
             Dict[str, Any]
